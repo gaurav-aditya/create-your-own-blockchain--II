@@ -58,6 +58,10 @@ You have successfully created your own cryptocurrency (sort of!). Your blockchai
 - Secures the transfer of funds using a digital signature algorithm to prove ownership.
 - Finally, allows users to make transactions on your blockchain with `Block.addTransaction(walletA.sendFunds(walletB.publicKey, 20));`
 
+  ### Output:
+  <img width="617" alt="echocoin" src="https://github.com/gaurav-aditya/create-your-own-blockchain--II/assets/110540811/1154023b-c031-4298-b822-06e5a903cc93">
+
+
 You can download these project files on [Github](https://github.com/gaurav-aditya/create-your-own-blockchain--II).
 
 Meet me 😉 [echoaditya](https://gaurav-aditya.github.io)
