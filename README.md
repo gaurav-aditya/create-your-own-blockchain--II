@@ -58,6 +58,9 @@ You have successfully created your own cryptocurrency (sort of!). Your blockchai
 - Secures the transfer of funds using a digital signature algorithm to prove ownership.
 - Finally, allows users to make transactions on your blockchain with `Block.addTransaction(walletA.sendFunds(walletB.publicKey, 20));`
 
+### Dependencies:
+[bouncy castle bcprov-jdk15on-159.jar](http://www.java2s.com/example/jar/g/download-gson282jar-file.html#google_vignette)
+[gson gson-2.8.2.jar](http://www.java2s.com/example/jar/b/download-bcprovjdk15on159jar-file.html)
   ### Output:
   <img width="617" alt="echocoin" src="https://github.com/gaurav-aditya/create-your-own-blockchain--II/assets/110540811/1154023b-c031-4298-b822-06e5a903cc93">
 
